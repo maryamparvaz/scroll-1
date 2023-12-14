@@ -1,5 +1,5 @@
 # scroll-1
-- [Demo Project](https://maryamparvaz.github.io/mouse-move/)
+- [Demo Project](https://maryamparvaz.github.io/scroll-1/)
 
 - Developed by Maryam Parvaz 
 
